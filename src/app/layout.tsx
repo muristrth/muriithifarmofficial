@@ -20,13 +20,13 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://muriithi-farms.same-app.com",
+    url: "https://muriithifarmofficial.vercel.app",
     title: "Muriithi Empire Farms | Farm Fresh Produce",
     description: "Experience farm-fresh organic products directly from our family-owned farms to your table. Visit our farm or order online.",
     siteName: "Muriithi Empire Farms",
     images: [
       {
-        url: "https://muriithi-farms.same-app.com/opengraph-image",
+        url: "https://muriithifarmofficial.vercel.app",
         width: 1200,
         height: 630,
         alt: "Muriithi Empire Farms"

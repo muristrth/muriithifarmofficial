@@ -101,12 +101,12 @@ function HeroSection() {
 // Farm categories section
 function CategoriesSection() {
   const categories = [
-    { name: "Andrew Poultry Farm", icon: "🐔", description: "Free-range chicken and eggs", slug: "andrew-poultry" },
-    { name: "Kinunga Fresh Avocados", icon: "🥑", description: "Organic hass avocados", slug: "kinunga-avocados" },
-    { name: "Dairy Products", icon: "🥛", description: "Fresh milk and cheese", slug: "dairy-products" },
-    { name: "Organic Vegetables", icon: "🥬", description: "Pesticide-free veggies", slug: "organic-vegetables" },
-    { name: "Fruit Orchard", icon: "🍎", description: "Seasonal fresh fruits", slug: "fruit-orchard" },
-    { name: "Honey Farm", icon: "🍯", description: "Pure natural honey", slug: "honey-farm" },
+    { name: "Andrew Poultry Farm", icon: "🐔", description: "Free-range Kienyeji chicken and eggs", slug: "andrew-poultry" },
+    { name: "Kinunga Avocado Orchard", icon: "🥑", description: "Coming Soon", slug: "kinunga-avocados" },
+    { name: "JJ Goat n Dairy", icon: "🥛", description: "Coming Soon", slug: "dairy-products" },
+    { name: "Kitengela Kienyeji Veges", icon: "🥬", description: "Pesticide-free Kienyeji veggies", slug: "organic-vegetables" },
+    { name: "Vineyard Grape Orchard", icon: "🍎", description: "Coming Soon", slug: "fruit-orchard" },
+    { name: "Kite11 Maize Farm", icon: "🌽", description: "Coming Soon", slug: "honey-farm" },
   ];
 
   return (
@@ -124,7 +124,7 @@ function CategoriesSection() {
                 href={`/products/${category.slug}`}
                 className="mt-4 text-green-700 hover:text-green-900 font-medium flex items-center"
               >
-                Learn more
+                See products
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 ml-1" viewBox="0 0 20 20" fill="currentColor">
                   <path fillRule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clipRule="evenodd" />
                 </svg>

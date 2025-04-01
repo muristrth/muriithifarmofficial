@@ -323,16 +323,16 @@ function getCategoryIcon(categoryName: string) {
   switch(categoryName) {
     case 'Andrew Poultry Farm':
       return '🐔';
-    case 'Kinunga Fresh Avocados':
+    case 'Kinunga Avocado Orchard':
       return '🥑';
-    case 'Dairy Products':
+    case 'JJ Goat n Dairy':
       return '🥛';
-    case 'Organic Vegetables':
+    case 'Kitengela Kienyeji Veges':
       return '🥬';
-    case 'Fruit Orchard':
+    case 'Vineyard Grape Orchard':
       return '🍎';
-    case 'Honey Farm':
-      return '🍯';
+    case 'Kite11 Maize Farm':
+      return '🌽';
     default:
       return '🌱';
   }

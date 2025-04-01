@@ -40,19 +40,19 @@ export default function MobileMenu() {
                 <span className="mr-2">🐔</span> Andrew Poultry Farm
               </Link>
               <Link href="/products/kinunga-avocados" className="flex items-center py-2 text-farm-green-800 hover:text-farm-green-600">
-                <span className="mr-2">🥑</span> Kinunga Fresh Avocados
+                <span className="mr-2">🥑</span> Kinunga Avocado Orchard
               </Link>
               <Link href="/products/dairy-products" className="flex items-center py-2 text-farm-green-800 hover:text-farm-green-600">
-                <span className="mr-2">🥛</span> Dairy Products
+                <span className="mr-2">🥛</span> JJ Goat n Dairy
               </Link>
               <Link href="/products/organic-vegetables" className="flex items-center py-2 text-farm-green-800 hover:text-farm-green-600">
-                <span className="mr-2">🥬</span> Organic Vegetables
+                <span className="mr-2">🥬</span> Kilonito Kienyeji Veges
               </Link>
               <Link href="/products/fruit-orchard" className="flex items-center py-2 text-farm-green-800 hover:text-farm-green-600">
-                <span className="mr-2">🍎</span> Fruit Orchard
+                <span className="mr-2">🍎</span> Vineyard Fruit Orchard
               </Link>
               <Link href="/products/honey-farm" className="flex items-center py-2 text-farm-green-800 hover:text-farm-green-600">
-                <span className="mr-2">🍯</span> Honey Farm
+                <span className="mr-2">🌽</span> Kite11 Maize Farm
               </Link>
             </div>
 
