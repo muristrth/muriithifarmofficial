@@ -7,8 +7,8 @@ export default function AndrewPoultryPage() {
     {
       id: "p1",
       name: "Improved Kienyeji Chicken",
-      description: "Pasture-raised Local chicken, fed with organic feed without antibiotics or hormones.",
-      price: 1500,
+      description: "Slaughtered chicken with >2.5kg. These are pasture-raised Local chicken, fed with organic feed without antibiotics or hormones.",
+      price: 1700,
       unit: "pc",
       image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F2554158204897502%2Fposts%2F3265999267046722%2F&psig=AOvVaw27Fn9Igl9XV_VujzuRuBCS&ust=1742961043285000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDY6pCqpIwDFQAAAAAdAAAAABAJ",
       inStock: true,

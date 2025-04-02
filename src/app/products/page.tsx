@@ -19,7 +19,7 @@ export default function ProductsPage() {
       accentColor: "border-farm-green-500",
       hoverColor: "hover:border-farm-green-600"
     },
-    {
+    /*{
       name: "Kinunga Fresh Avocados",
       slug: "kinunga-avocados",
       icon: <AvocadoIcon />,
@@ -63,7 +63,7 @@ export default function ProductsPage() {
       bgColor: "bg-white",
       accentColor: "border-farm-brown-400",
       hoverColor: "hover:border-farm-brown-500"
-    }
+    }*/
   ];
 
   return (
